@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<markers>
+	<marker name="Location 1" lat="44.947464" lng="-93.320826" city="Minneapolis" state="MN" postal="55416" country="US" web="http://www.chipotle.com" address="../uploads/2018/03/location.png" />
+	<marker name="Location 2" lat="44.930810" lng="-93.347877" city="St. Louis Park" state="MN" postal="55416" country="US" web="http://www.chipotle.com" address="../uploads/2018/03/location.png" />
+	<marker name="Location 3" lat="44.9553438" lng="-93.29719699999998" city="Minneapolis" state="MN" postal="55404" country="US" web="http://www.chipotle.com" fondo="../uploads/2018/03/location.png" />
+	<marker name="Location 4" lat="44.983935" lng="-93.380542" city="Golden Valley" state="MN" postal="55427" country="US" web="http://www.chipotle.com" address="../uploads/2018/03/location.png" />
+	<marker name="Location 5" lat="44.924363" lng="-93.410158" city="Hopkins" state="MN" postal="55343" country="US" web="http://www.chipotle.com" address="../uploads/2018/03/location.png" />
+	<marker name="Location 6" lat="44.973557" lng="-93.275111" city="Minneapolis" state="MN" postal="55403" country="US" web="http://www.chipotle.com" address="../uploads/2018/03/location.png" />
+	<marker name="Location 7" lat="44.97774" lng="-93.270909" city="Minneapolis" state="MN" postal="55402" country="US" web="http://www.chipotle.com" address="../uploads/2018/03/location.png" />
+	<marker name="Location 8" lat="44.879826" lng="-93.321280" city="Edina" state="MN" postal="55435" country="US" web="http://www.chipotle.com" address="../uploads/2018/03/location.png" />
+	<marker name="Location 9" lat="44.970495" lng="-93.437430" city="Minnetonka" state="MN" postal="55305" country="US" web="http://www.chipotle.com" address="../uploads/2018/03/location.png" />
+	<marker name="Location 10" lat="44.972808" lng="-93.247153" city="Minneapolis" state="MN" postal="55454" country="US" web="http://www.chipotle.com" address="../uploads/2018/03/location.png" />
+	<marker name="Location 11" lat="44.987687" lng="-93.257581" city="Minneapolis" state="MN" postal="55414" country="US" web="http://www.chipotle.com" address="../uploads/2018/03/location.png" />
+	<marker name="Location 12" lat="44.973665" lng="-93.227023" city="Minneapolis" state="MN" postal="55414" country="US" web="http://www.chipotle.com" address="../uploads/2018/03/location.png" />
+	<marker name="Location 13" lat="44.8458631" lng="-93.2860161" city="Bloomington" state="MN" postal="55425" country="US" web="http://www.chipotle.com" address="../uploads/2018/03/location.png" />
+	<marker name="Location 14" lat="44.9716626" lng="-93.4967757" city="Wayzata" state="MN" postal="55391" country="US" web="http://www.chipotle.com" address="../uploads/2018/03/location.png" />
+	<marker name="Location 15" lat="44.859761" lng="-93.436379" city="Eden Prairie" state="MN" postal="55344" country="US" web="http://www.chipotle.com" address="../uploads/2018/03/location.png" />
+	<marker name="Location 16" lat="45.019846" lng="-93.481832" city="Plymouth" state="MN" postal="55447" country="US" web="http://www.chipotle.com" address="../uploads/2018/03/location.png" />
+	<marker name="Location 17" lat="44.998965" lng="-93.194622" city="Roseville" state="MN" postal="55113" country="US" web="http://www.chipotle.com" address="../uploads/2018/03/location.png" />
+	<marker name="Location 18" lat="44.939865" lng="-93.136768" city="St. Paul" state="MN" postal="55105" country="US" web="http://www.chipotle.com" address="../uploads/2018/03/location.png" />
+	<marker name="Location 19" lat="44.858736" lng="-93.533661" city="Chanhassen" state="MN" postal="55317" country="US" web="http://www.chipotle.com" address="../uploads/2018/03/location.png" />
+	<marker name="Location 20" lat="44.945127" lng="-93.095368" city="St. Paul" state="MN" postal="55102" country="US" web="http://www.chipotle.com" address="../uploads/2018/03/location.png" />
+</markers>

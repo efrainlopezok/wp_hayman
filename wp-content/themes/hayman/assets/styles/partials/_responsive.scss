@@ -1,0 +1,557 @@
+/* # Media Queries
+---------------------------------------------------------------------------------------------------- */
+
+@media only screen and (max-width: 1495px) {
+    .site-header .widget-area section:first-child {
+        text-align: right;
+        float: right;
+        margin-right: 0px;
+    }
+    .site-header .widget-area section:last-child {
+        clear: both;
+    }
+}
+
+@media only screen and (max-width: 1200px) {
+    .site-inner,
+    .wrap {
+        max-width: 960px;
+    }
+    .content-sidebar-sidebar .content-sidebar-wrap,
+    .sidebar-content-sidebar .content-sidebar-wrap,
+    .sidebar-sidebar-content .content-sidebar-wrap {
+        width: 740px;
+    }
+    .content,
+    .site-header .widget-area {
+        width: 620px;
+    }
+    .sidebar-content-sidebar .content,
+    .sidebar-sidebar-content .content,
+    .content-sidebar-sidebar .content {
+        width: 400px;
+    }
+    .site-header .widget-area,
+    .title-area {
+        width: 100%;
+    }
+    .title-area {
+        text-align: center;
+        .logo {
+            img {
+                max-width: 300px;
+            }
+        }
+    }
+    .site-header {
+        padding: 0 15px;
+        .widget-area section:first-child {
+            text-align: center;
+            float: none;
+            margin-right: 0;
+        }
+    }
+    .block-wrap {
+        background-position: center;
+    }
+    //.testimonial-slider {
+        //.slick-slide {
+            // &.nextEl {
+                //right: 1085px;
+                // }
+                // }
+                // }
+                .footer-widgets-2 {
+                    width: 58%;
+                }
+                .footer-widgets {
+                    .menu-footer-menu-container {
+                        li {
+                            padding: 0 12px;
+                            a {
+                                font-size: 11px;
+                            }
+                        }
+                    }
+                }
+                .footer-widgets-3 {
+                    text-align: left;
+                }
+            }
+
+            @media only screen and (max-width: 1120px) {
+                .site-header .widget-area section:first-child,
+                .site-header .widget-area section:last-child {
+                    width: 100%;
+                    float: none;
+                    text-align: center;
+                }
+            }
+
+            @media only screen and (max-width: 1155px) {
+                //.testimonial-slider {
+                    //.center {
+                        //left: calc(100% - 102.75%);
+                        //}
+                        //}
+                    }
+
+                    @media only screen and (max-width: 1145px) {
+                        // .testimonial-slider {
+                            //     .center {
+                                //         left: -555px;
+                                //     }
+                                //     .slick-current {
+                                    //         max-width: 745px;
+                                    //         width: 33%;
+                                    //     }
+                                    // }
+                                }
+
+                                @media only screen and (max-width: 1120px) {
+                                    // .testimonial-slider {
+                                        //     .slick-current {
+                                            //         width: 3.67%;
+                                            //     }
+                                            // }
+                                        }
+
+                                        @media only screen and (max-width: 1100px) {
+                                            // .testimonial-slider {
+                                                //     .center {
+                                                    //         left: -2.85%;
+                                                    //     }
+                                                    //     .slick-current {
+                                                        //         width: 3.67%;
+                                                        //     }
+                                                        // }
+                                                    }
+
+                                                    @media only screen and (max-width: 1075px) {
+                                                        // .testimonial-slider {
+                                                            //     .center {
+                                                                //         left: -2.85%;
+                                                                //     }
+                                                                //     .slick-current {
+                                                                    //         width: 3.62%;
+                                                                    //     }
+                                                                    // }
+                                                                }
+
+                                                                @media only screen and (max-width: 1045px) {
+                                                                    // .testimonial-slider {
+                                                                        //     .slick-current {
+                                                                            //         width: 3.57%;
+                                                                            //     }
+                                                                            // }
+                                                                        }
+
+                                                                        @media only screen and (max-width: 1025px) {
+                                                                            // .testimonial-slider {
+                                                                                //     .slick-current {
+                                                                                    //         width: 3.5%;
+                                                                                    //     }
+                                                                                    // }
+                                                                                }
+
+                                                                                @media only screen and (max-width: 1000px) {
+                                                                                    // .testimonial-slider {
+                                                                                        //     .slick-current {
+                                                                                            //         width: 3.4%;
+                                                                                            //     }
+                                                                                            // }
+                                                                                        }
+
+                                                                                        @media only screen and (max-width: 960px) {
+                                                                                            .site-inner,
+                                                                                            .wrap {
+                                                                                                max-width: 800px;
+                                                                                            }
+                                                                                            .feature .feature-wrap h2 {
+                                                                                                font-size: 49px;
+                                                                                            }
+                                                                                            // .content,
+                                                                                            // .content-sidebar-sidebar .content,
+                                                                                            // .content-sidebar-sidebar .content-sidebar-wrap,
+                                                                                            // .footer-widgets-1,
+                                                                                            // .footer-widgets-2,
+                                                                                            // .footer-widgets-3,
+                                                                                            // .sidebar-content-sidebar .content,
+                                                                                            // .sidebar-content-sidebar .content-sidebar-wrap,
+                                                                                            // .sidebar-primary,
+                                                                                            // .sidebar-secondary,
+                                                                                            // .sidebar-sidebar-content .content,
+                                                                                            // .sidebar-sidebar-content .content-sidebar-wrap,
+                                                                                            // .site-header .widget-area,
+                                                                                            // .title-area {
+                                                                                                //     width: 100%;
+                                                                                                // }
+                                                                                                .site-header .wrap {
+                                                                                                    padding: 20px 5%;
+                                                                                                }
+                                                                                                .header-image .title-area {
+                                                                                                    background-position: center top;
+                                                                                                }
+                                                                                                .genesis-nav-menu li,
+                                                                                                .site-header ul.genesis-nav-menu,
+                                                                                                .site-header .search-form {
+                                                                                                    float: none;
+                                                                                                }
+                                                                                                .genesis-nav-menu,
+                                                                                                .site-description,
+                                                                                                .site-header .title-area,
+                                                                                                .site-header .search-form,
+                                                                                                .site-title {
+                                                                                                    text-align: center;
+                                                                                                }
+                                                                                                .genesis-nav-menu a,
+                                                                                                .genesis-nav-menu>.first>a,
+                                                                                                .genesis-nav-menu>.last>a {
+                                                                                                    padding: 20px 16px;
+                                                                                                }
+                                                                                                .site-header .search-form {
+                                                                                                    margin: 16px auto;
+                                                                                                }
+                                                                                                .genesis-nav-menu li.right {
+                                                                                                    display: none;
+                                                                                                }
+                                                                                                .footer-widgets-1 {
+                                                                                                    margin-right: 10px;
+                                                                                                }
+                                                                                                // .testimonial-slider {
+                                                                                                    //     .slick-current {
+                                                                                                        //         width: 3.3%;
+                                                                                                        //     }
+                                                                                                        // }
+                                                                                                        .site-header {
+                                                                                                            .genesis-nav-menu {
+                                                                                                                .menu-item:before {
+                                                                                                                    top: 26px;
+                                                                                                                }
+                                                                                                            }
+                                                                                                        }
+                                                                                                        .footer-widgets {
+                                                                                                            .menu-footer-menu-container {
+                                                                                                                li {
+                                                                                                                    padding: 0 4px;
+                                                                                                                    a {
+                                                                                                                        font-size: 10px;
+                                                                                                                    }
+                                                                                                                }
+                                                                                                            }
+                                                                                                        }
+                                                                                                    }
+
+                                                                                                    @media only screen and (max-width: 920px) {
+                                                                                                        // .testimonial-slider {
+                                                                                                            //     .slick-current {
+                                                                                                                //         width: 3.2%;
+                                                                                                                //     }
+                                                                                                                // }
+                                                                                                            }
+
+                                                                                                            @media only screen and (max-width: 875px) {
+                                                                                                                // .testimonial-slider {
+                                                                                                                    //     .slick-current {
+                                                                                                                        //         width: 3.1%;
+                                                                                                                        //     }
+                                                                                                                        // }
+                                                                                                                    }
+
+                                                                                                                    @media only screen and (max-width: 840px) {
+                                                                                                                        // .testimonial-slider {
+                                                                                                                            //     .slick-current {
+                                                                                                                                //         width: 3%;
+                                                                                                                                //     }
+                                                                                                                                // }
+                                                                                                                            }
+
+                                                                                                                            @media only screen and (max-width: 800px) {
+                                                                                                                                body {
+                                                                                                                                    background-color: #fff;
+                                                                                                                                    font-size: 16px;
+                                                                                                                                }
+                                                                                                                                .header-widget-area {
+                                                                                                                                    display: none;
+                                                                                                                                }
+                                                                                                                                .site-inner,
+                                                                                                                                .wrap {
+                                                                                                                                    padding-left: 5%;
+                                                                                                                                    padding-right: 5%;
+                                                                                                                                }
+                                                                                                                                .archive-description,
+                                                                                                                                .author-box,
+                                                                                                                                .comment-respond,
+                                                                                                                                .entry,
+                                                                                                                                .entry-comments,
+                                                                                                                                .entry-pings,
+                                                                                                                                .sidebar .widget,
+                                                                                                                                .site-header {
+                                                                                                                                    padding: 0;
+                                                                                                                                }
+                                                                                                                                .archive-pagination li a {
+                                                                                                                                    margin-bottom: 4px;
+                                                                                                                                }
+                                                                                                                                .five-sixths,
+                                                                                                                                .four-sixths,
+                                                                                                                                .one-fourth,
+                                                                                                                                .one-half,
+                                                                                                                                .one-sixth,
+                                                                                                                                .one-third,
+                                                                                                                                .three-fourths,
+                                                                                                                                .three-sixths,
+                                                                                                                                .two-fourths,
+                                                                                                                                .two-sixths,
+                                                                                                                                .two-thirds {
+                                                                                                                                    margin: 0;
+                                                                                                                                    width: 100%;
+                                                                                                                                }
+                                                                                                                                .sidebar .widget.enews-widget {
+                                                                                                                                    padding: 40px;
+                                                                                                                                }
+                                                                                                                                .title-area {
+                                                                                                                                    text-align: left !important;
+                                                                                                                                    padding-left: 25px;
+                                                                                                                                }
+    /* Slider
+    - - - - - - - - - - - - - - - - - - - -*/
+    .v-slider {
+        .item-slide {
+            h2 {
+                font-size: 51px;
+                margin-bottom: 10px;
+            }
+            min-height: 500px;
+            .select-wrap {
+                select {
+                    max-width: 360px;
+                }
+            }
+        }
+    }
+    .site-footer {
+        padding: 0 10px;
+        .one-half {
+            width: 40%;
+        }
+        #footer-right {
+            float: right;
+            padding-right: 10px;
+        }
+    }
+    .admin-bar .sfm-navicon-button {
+        top: 55px !important;
+    }
+    .sfm-pos-right .sfm-rollback {
+        display: block;
+    }
+    .sfm-copy ul li {
+        display: inline-block;
+        a {
+            padding: 10px;
+            text-transform: uppercase;
+            color: #ccc;
+            font-size: 11px;
+        }
+        &.icon-login {
+            &:before {
+                font: normal normal normal 14px/1 FontAwesome;
+                content: "\f090";
+                margin-right: 4px;
+                color: #ccc;
+            }
+        }
+        &.icon-register {
+            &:before {
+                font: normal normal normal 14px/1 FontAwesome;
+                content: "\f2bd";
+                margin-right: 4px;
+                color: #ccc;
+            }
+        }
+    }
+    // .testimonial-slider {
+        //     .slick-current {
+            //         width: 2.95%;
+            //     }
+            // }
+            .sfm-pos-right {
+                .sfm-rollback {
+                    height: 5%;
+                }
+            }
+            .footer-widgets {
+                padding-top: 0;
+                .widget {
+                    margin-bottom: 5px;
+                }
+                .footer-widgets-1,
+                .footer-widgets-2,
+                .footer-widgets-3 {
+                    width: 100%;
+                    margin: 0;
+                    text-align: center;
+                }
+            }
+        }
+
+        @media only screen and (max-width: 780px) {
+            // .testimonial-slider {
+                //     .slick-current {
+                    //         width: 2.9%;
+                    //     }
+                    // }
+                }
+
+                @media only screen and (max-width: 768px) {
+                    body,
+                    .btn {
+                        font-size: 14px;
+                    }
+                    h2 {
+                        font-size: 35px;
+                    }
+                    body.home {
+                        h3 {
+                            font-size: 30px;
+                        }
+                    }
+                }
+
+                @media only screen and (max-width: 700px) {
+                    .testimonial-slider .item-slide {
+                        max-width: 600px;
+                    }
+                }
+
+                @media only screen and (max-width: 600px) {
+    /* Slider
+    - - - - - - - - - - - - - - - - - - - -*/
+    .v-slider {
+        .item-slide {
+            h2 {
+                font-size: 35px;
+            }
+            min-height: 350px;
+            .select-wrap {
+                select {
+                    max-width: 280px;
+                }
+            }
+        }
+    }
+    .footer-widgets-1,
+    .footer-widgets-2,
+    .footer-widgets-3,
+    .footer-widgets-4,
+    .footer-widgets-5 {
+        width: 100%;
+    }
+    .footer-widgets-1 img {
+        max-width: 200px !important;
+    }
+    .row-fluid [class*="span"] {
+        display: block;
+        float: none;
+        // width: 100% !important;
+        width: 100%;
+        margin-left: 0px !important;
+    }
+    .block-inner {
+        padding: 0 5%;
+    }
+    body.home {
+        h3 {
+            text-align: center;
+            font-size: 27px;
+        }
+    }
+    .vertical-slider,
+    .block-wrap-slider {
+        .block-inner {
+            padding: 0px;
+        }
+    }
+    .button-txt {
+        text-align: center !important;
+    }
+    .horizontal-slider {
+        h2 {
+            font-size: 40px;
+        }
+        .item-slide {
+            min-height: 220px;
+        }
+        .slick-dots {
+            bottom: 50px;
+        }
+    }
+    .gallery-slider .item-slide {
+        min-height: 400px;
+    }
+    .feature .feature-wrap h2 {
+        font-size: 30px;
+    }
+    .feature .feature-wrap>div {
+        padding: 20px 10px;
+        margin-bottom: 25px;
+        .btn {
+            font-size: 10px;
+        }
+    }
+    .vibe-section {
+        img {
+            max-width: 200px;
+        }
+    }
+    .invert-mobile-positions {
+        .row-fluid {
+            display: flex;
+            flex-direction: column;
+            .rhcol:nth-child(2) {
+                order: 2;
+            }
+            .rhcol:nth-child(3) {
+                order: 1;
+            }
+        }
+    }
+    .testimonial-slider .item-slide {
+        max-width: 490px;
+    }
+}
+
+@media only screen and (max-width: 500px) {
+    .gallery-slider .item-slide {
+        min-height: 300px;
+    }
+    .gallery-thumb-slider .item-slide {
+        min-height: 125px;
+    }
+    .feature .feature-wrap.one-third {
+        width: 100%;
+        margin-left: 0;
+    }
+    .feature {
+        display: flex;
+        flex-direction: column;
+        .feature-wrap.best-plan {
+            order: 1;
+        }
+        .feature-wrap:nth-child(1) {
+            order: 2;
+        }
+        .feature-wrap:nth-child(3) {
+            order: 3;
+        }
+    }
+    .testimonial-slider .item-slide {
+        max-width: 350px;
+    }
+}
+
+@media only screen and (max-width: 350px) {
+    .testimonial-slider .item-slide {
+        max-width: 300px;
+    }
+}

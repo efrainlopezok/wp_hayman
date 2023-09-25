@@ -1,0 +1,33 @@
+/* ==========================================================================
+   Home Page Template
+   ========================================================================== */
+
+body.home {
+    .carousel-inner {
+        .item {
+            min-height: 680px;
+            .carousel-content {
+                h2 {
+                    color: #fff;
+                    font-family: $font-bold;
+                    font-size: 70px;
+                    text-transform: uppercase;
+                }
+                p {
+                    color: #f47d2b;
+                }
+            }
+        }
+    }
+    h3 {
+        font-family: $font-regular;
+        font-size: 40px;
+        margin-bottom: 30px;
+    }
+    .btn-orange {
+        min-width: 245px;
+        min-height: 62px;
+        font-size: 18px;
+        padding: 15px 12px;
+    }
+}

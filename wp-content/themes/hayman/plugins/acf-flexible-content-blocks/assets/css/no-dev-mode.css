@@ -1,0 +1,5 @@
+.acf-dev,
+[data-key*="-tab_dev"] {
+  display: none !important; }
+
+/*# sourceMappingURL=no-dev-mode.css.map */

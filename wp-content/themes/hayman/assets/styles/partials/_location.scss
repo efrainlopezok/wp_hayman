@@ -1,0 +1,82 @@
+/* ==========================================================================
+  Locations
+   ========================================================================== */
+
+.bh-sl-general {
+    position: relative;
+    .bh-sl-form-container {
+        position: absolute;
+        z-index: 9;
+        top: 80px;
+        right: 120px;
+        select {
+            font-size: 20px;
+            font-weight: 100;
+            -webkit-appearance: none;
+            appearance: none;
+            padding: 20px 30px;
+            width: 600px;
+            border-radius: 0;
+            background: url(assets/images/select-arrow.png);
+            background-color: white;
+            background-repeat: no-repeat;
+            background-position: 95% center;
+            background-size: 15px;
+        }
+    }
+}
+
+#location-box {
+    padding: 0 !important;
+}
+
+#bh-sl-map {
+    width: 100%;
+    height: 680px;
+}
+
+.location-details {
+    .loc-image {
+        background-image: url(assets/images/location.png);
+        height: 140px;
+        width: 100%;
+        margin-bottom: 20px;
+    }
+    .loc-name {
+        font-size: 21px;
+        font-weight: 500;
+        margin-bottom: 10px;
+    }
+    .loc-excerpt {
+        font-size: 14px;
+        max-width: 250px;
+        white-space: normal;
+    }
+    .loc-link {
+        display: block;
+        text-align: right;
+        font-size: 16px;
+        font-weight: 400;
+        margin-top: 10px;
+    }
+}
+
+@media only screen and (max-width: 992px) {
+    #bh-sl-map {
+        height: 560px;
+    }
+    .bh-sl-general {
+        .bh-sl-form-container {
+            top: 50px;
+            right: 0;
+            width: 100%;
+            select {
+                padding: 12px 26px;
+                width: 100%;
+                max-width: 90%;
+                font-size: 18px;
+                margin: 0 5%;
+            }
+        }
+    }
+}

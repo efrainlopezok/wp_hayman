@@ -1,0 +1,34 @@
+/* ==========================================================================
+   Header
+   ========================================================================== */
+
+.site-header {
+    .widget-area {
+        .icon-register {
+            a {
+                &:before {
+                    font: normal normal normal 14px/1 FontAwesome;
+                    content: "\f2bd";
+                    margin-right: 4px;
+                }
+            }
+        }
+        .icon-login {
+            a {
+                &:before {
+                    font: normal normal normal 14px/1 FontAwesome;
+                    content: "\f090";
+                    margin-right: 4px;
+                }
+            }
+        }
+    }
+}
+
+.title-area {}
+
+.site-title {}
+
+.site-description {}
+
+.header-widget-area {}

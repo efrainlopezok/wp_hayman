@@ -1,0 +1,5 @@
+Install Node.js then follow next commands
+> sudo npm install
+Install Grunt.js
+> grunt 
+

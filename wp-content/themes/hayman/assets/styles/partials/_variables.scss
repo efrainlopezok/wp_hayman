@@ -1,0 +1,25 @@
+/* ==========================================================================
+   Variables
+   ========================================================================== */
+
+// Font Face
+// @include fontface('FONT_NAME', 'assets/fonts/', 'FONT_FAMILY');
+// Font Family
+$font-semibold: 'open_sanssemibold';
+$font-semibold-italic: 'open_sanssemibold_italic';
+$font-italic: 'open_sansitalic';
+$font-light: 'open_sanslight';
+$font-light-italic: 'open_sanslight_italic';
+$font-regular: 'open_sansregular';
+$font-bold: 'open_sansbold';
+$font-bold-italic: 'open_sansbold_italic';
+$font-extra-bold: 'open_sansextrabold';
+$font-extra-bold-italic: 'open_sansextrabold_italic';
+// Structure
+$pageWidth: 1000px;
+// Text Selection
+$selectionColor: orange;
+// Colors
+$base-color: #f47d2b;
+$red: red;
+$blue: blue;
